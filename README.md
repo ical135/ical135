@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ical135
-- 👀 I’m interested in Web Developer
+- 👀 I’m interested in Web Developer prefered in Backend Developer
 - 🌱 I’m currently learning BackEnd Developer
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<!--- - 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ... --->
 
 <!---
 ical135/ical135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

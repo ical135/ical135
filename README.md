@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ical135
-- 👀 I’m interested in Web Developer prefered in Backend Developer
-- 🌱 I’m currently learning BackEnd Developer
+- 👀 I’m Full Stack Developer | ERP System Enthusiast 
+- 🌱 I’m currently learning Golang
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 

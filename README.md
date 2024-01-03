@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ical135
 - 👀 I’m Full Stack Developer
-- Penikmat Kopi & Wifi Gratis
+- ✨ Penikmat Kopi & Wifi Gratisan
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 

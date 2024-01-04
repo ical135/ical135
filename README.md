@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ical135
-- 👀 I’m Full Stack Developer
+- 👀 I’m Software Engineer
 - ✨ Penikmat Kopi & Wifi Gratisan
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->

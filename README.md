@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ical135
 - 👀 I’m Software Engineer
 - 👨🏻‍💻 Kuli Digital
-- ✨ Penikmat Kopi & Wifi Gratis
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... --->
 
